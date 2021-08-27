@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Sionic frontend test challenge Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sionic frontend test challenge Is an Ecommerce web application that allows it's users to purchase products loaded from a Sionic backend API, be able to add products of there choice to cart and make orders.
 
 ## Available Scripts
 
@@ -44,3 +44,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Contribution
+
+   [frank](https://github.com/frankhn)
